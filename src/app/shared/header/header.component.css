@@ -1,0 +1,42 @@
+.menu-contacto {
+    background-color: #e44441;
+    font-size: small;
+}
+
+.menu-principal {
+    color: #f3f2f279;
+}
+
+.menu-principal .nav-link {
+    color: #f69533;
+}
+
+.menu-principal .nav-link:hover {
+    color: orange;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #ffaa54;
+}
+
+.dropdown-item {
+    color: #f69533;
+}
+
+.dropdown-item:hover {
+    color: orange;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+
+.bi-list {
+    color: white;
+    font-size: xx-large;
+}

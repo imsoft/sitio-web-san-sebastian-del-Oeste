@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+}
+
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}

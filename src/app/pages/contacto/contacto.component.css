@@ -1,0 +1,14 @@
+a {
+    color: #f69533;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+    text-decoration: none;
+}
+
+iframe {
+    width: 100%;
+    height: 400px;
+}
