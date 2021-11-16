@@ -27,6 +27,10 @@ a:hover {
     color: #f69533;
 }
 
+.navbar-toggler {
+    background-color: orange;
+}
+
 .dropdown-item:hover {
     color: orange;
 }
