@@ -11,6 +11,8 @@ import { ArticuloOchoComponent } from './transparencia/articulo-ocho/articulo-oc
 import { ArticuloQuinceComponent } from './transparencia/articulo-quince/articulo-quince.component';
 import { ContactoComponent } from './contacto/contacto.component';
 import { AvisoDePrivacidadComponent } from './aviso-de-privacidad/aviso-de-privacidad.component';
+import { LeyDeDisciplinaFinancieraComponent } from './transparencia/ley-de-disciplina-financiera/ley-de-disciplina-financiera.component';
+import { LeyGeneralDeContabilidadGubernamentalComponent } from './transparencia/ley-general-de-contabilidad-gubernamental/ley-general-de-contabilidad-gubernamental.component';
 
 const routes: Routes = [
   {
@@ -51,6 +53,14 @@ const routes: Routes = [
       {
         path: 'articulo-quince',
         component: ArticuloQuinceComponent
+      },
+      {
+        path: 'ley-de-disciplina-financiera',
+        component: LeyDeDisciplinaFinancieraComponent
+      },
+      {
+        path: 'ley-general-de-contabilidad-gubernamental',
+        component: LeyGeneralDeContabilidadGubernamentalComponent
       },
       {
         path: 'denuncias-en-linea',
