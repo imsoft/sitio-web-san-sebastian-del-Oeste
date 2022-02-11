@@ -45,4 +45,4 @@ testem.log
 Thumbs.db
 
 # Documentos de transparencia
-/assets/Documentos/
+/src/assets/Documentos/
